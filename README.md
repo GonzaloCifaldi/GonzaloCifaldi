@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Gonzalo Cifaldi
+### Hola 👋, mi nombre es Gonzalo Cifaldi
 
-<!--
-**GonzaloCifaldi/GonzaloCifaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a developer with fifteen years of experience working in various languages and roles. 
+#### Soy un desarrollador con quince años de experiencia trabajando en diversos lenguajes y roles.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning / Actualmente estoy aprendiendo <a href="https://godotengine.org/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://godotengine.org/themes/godotengine/assets/logo.svg" /></a>
+- 📫 How to reach me / Como ponerte en contacto conmigo : gonzalo.cifaldi@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🤝🏻 &nbsp;Connect with me / Conecta conmigo
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gonzalocifaldi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_gonzalocifaldi/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GonzaloCifaldi)
