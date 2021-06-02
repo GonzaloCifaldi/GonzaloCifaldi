@@ -1,8 +1,6 @@
-## Hi there 👋, my name is Gonzalo Cifaldi
-## Hola 👋, mi nombre es Gonzalo Cifaldi
+## Hi there 👋, my name is Gonzalo Cifaldi / Hola 👋, mi nombre es Gonzalo Cifaldi
 
-### I am a developer with fifteen years of experience working in various languages and roles. 
-### Soy un desarrollador con quince años de experiencia trabajando en diversos lenguajes y roles.
+### I am a developer with fifteen years of experience working in various languages and roles. / Soy un desarrollador con quince años de experiencia trabajando en diversos lenguajes y roles.
 
 - 🌱 I’m currently learning / Actualmente estoy aprendiendo <a href="https://godotengine.org/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://godotengine.org/themes/godotengine/assets/logo.svg" /></a>
 - 📫 How to reach me / Como ponerte en contacto conmigo : gonzalo.cifaldi@gmail.com
