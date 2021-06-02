@@ -2,7 +2,7 @@
 
 ### I am a developer with fifteen years of experience working in various languages and roles. / Soy un desarrollador con quince años de experiencia trabajando en diversos lenguajes y roles.
 
-- 🌱 I’m currently learning / Actualmente estoy aprendiendo <a href="https://godotengine.org/" target="_blank"><img alt="HTML5" width="30px" src="https://github.com/godotengine/godot/blob/master/logo_outlined.svg" /></a>
+- 🌱 I’m currently learning / Actualmente estoy aprendiendo <a href="https://godotengine.org/" target="_blank"><img alt="HTML5" width="100px" src="https://github.com/godotengine/godot/blob/master/logo_outlined.svg" /></a>
 - 📫 How to reach me / Como ponerte en contacto conmigo : gonzalo.cifaldi@gmail.com
 
 ####  🤝🏻 &nbsp;Connect with me / Conecta conmigo
